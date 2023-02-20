@@ -10,4 +10,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 CMD ["python", "watch_next.py"]
 
-# for more informations visit https://docs.docker.com/develop/develop-images/dockerfile_best-practices/
+# for more informations visit https://docs.docker.com/develop/develop-images/dockerfile_best-practices/ 
